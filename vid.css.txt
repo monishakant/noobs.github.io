@@ -1,0 +1,20 @@
+margin: 0;
+padding: 0;
+ 
+ }
+ body{ 
+     backgroung:url(https://www.freepik.com/free-vector/black-background-with-red-glowing-low-poly-mesh_5189544.htm#page=1&query=red%20black%20abstract%20background&position=6);
+     background-size: cover;
+    background-attachment: fixed;
+ }
+  .conatiner{
+             width :50%;
+             margin:80px auto;
+            
+  }
+.conatiner h1{
+    padding :60px 0;
+    color:#fff;
+    font-size: 44px;
+    text-align:center :
+}
